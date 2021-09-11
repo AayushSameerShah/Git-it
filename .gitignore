@@ -3,3 +3,4 @@ Icon.ico
 .ipynb_checkpoints
 Practice
 *.bat
+.gitignore
