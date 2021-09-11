@@ -2,5 +2,8 @@ Icon.ico
 *.ini
 .ipynb_checkpoints
 Practice
+TEMP
 *.bat
-.gitignore
+*.gitignore
+*.pdf
+*.mp4
